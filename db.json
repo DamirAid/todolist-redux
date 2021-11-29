@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "task": "Купить хлеб",
+      "status": false,
+      "id": 1
+    },
+    {
+      "task": "Посмотреть видео",
+      "status": false,
+      "id": 2
+    },
+    {
+      "task": "Выполнить заказ",
+      "status": false,
+      "id": 3
+    }
+  ]
+}
